@@ -1,0 +1,38 @@
+.img_inn {
+  width: 200px;
+  height: 200px;
+  border: 3px solid brown;
+  border-radius: 10px;
+}
+
+.img_arrow_bow {
+  width: 200px;
+  height: 200px;
+  border: 3px solid brown;
+  border-radius: 10px;
+}
+
+.img_enemy {
+  width: 200px;
+  height: 200px;
+  border: 3px solid brown;
+  border-radius: 10px;
+}
+
+.img_Backpack {
+  width: 200px;
+  height: 200px;
+  border: 3px solid brown;
+  border-radius: 10px;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#container_div_img {
+  text-align: center;
+  margin: auto;
+}
